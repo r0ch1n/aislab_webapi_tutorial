@@ -1,9 +1,10 @@
 --
--- Database: `Worshop`
+-- Database: `Workshop`
 --
 
-CREATE DATABASE IF NOT EXISTS `Worshop` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `Worshop`;
+CREATE DATABASE IF NOT EXISTS `Workshop` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+
+USE `Workshop`;
 
 -- --------------------------------------------------------
 
